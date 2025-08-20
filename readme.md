@@ -1,6 +1,3 @@
-好的，我將重新編排 GitHub README 的內容，移除不必要的數字連結，並調整為更符合 Markdown README 的格式。
-
------
 
 ### Sudoku Web Solver: A Hybrid GAS-Based Solution
 
